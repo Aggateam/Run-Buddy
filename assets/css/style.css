@@ -1,0 +1,37 @@
+
+  
+
+  
+  /* apply styles to <header> */
+  header {
+    padding: 20px 35px;
+    background-color: #4adaf3;
+  }
+  
+ 
+  header h1 {
+    text-decoration: none;
+    color: #9412a5;
+  }
+  
+  .container {
+    width: 1280px;
+    margin: 0 auto;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+}
+nav {
+    
+     text-align: right;
+}
+.navitem {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(199, 31, 185);
+    font-size: large;
+    padding: 4px 10px;
+    
+} 
