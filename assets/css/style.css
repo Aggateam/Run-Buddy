@@ -6,35 +6,44 @@
   header {
     padding: 20px 35px;
     background-color: #4adaf3;
+  
   }
   
  
   header h1 {
+    font-weight: bold;
+    font-size: 36px;
     text-decoration: none;
     color: #9412a5;
+    margin: 0;
+    display: inline;
   }
   
-  .container {
-    width: 1280px;
-    margin: 0 auto;
+
+header nav {
+  float: right;
+    margin: 7px 0;
 }
-.grid {
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    align-items: center;
+header a{
+  color: yellow;
+  text-decoration: none;
+
 }
-nav {
-    
-     text-align: right;
+header nav ul li {
+
+  display: inline;
+
 }
-.navitem {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: rgb(199, 31, 185);
-    font-size: large;
-    padding: 4px 10px;
-    
-} 
+
+header nav ul li a {
+
+  margin: 0 30px;
+
+  font-weight: lighter;
+
+  font-size: 22px;
+
+}
 
 footer h2 {
   display: inline;
