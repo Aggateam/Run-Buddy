@@ -5,7 +5,8 @@
   /* apply styles to <header> */
   header {
     padding: 20px 35px;
-    background-color: #4adaf3;
+    background-color: #39a6b2;
+    width: 100%;
   
   }
   
@@ -14,18 +15,18 @@
     font-weight: bold;
     font-size: 36px;
     text-decoration: none;
-    color: #9412a5;
+    color: #fce138;
     margin: 0;
     display: inline;
   }
   
 
 header nav {
-  float: right;
+    float: right;
     margin: 7px 0;
 }
 header a{
-  color: yellow;
+  color:#fce138;
   text-decoration: none;
 
 }
@@ -34,17 +35,7 @@ header nav ul li {
   display: inline;
 
 }
-<<<<<<< HEAD
-.navitem {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: rgb(199, 31, 185);
-    font-size: large;
-    padding: 4px 10px;
-    
-} 
 
-=======
 
 header nav ul li a {
 
@@ -81,6 +72,6 @@ footer {
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border box;
+  box-sizing: border-box;
 }
->>>>>>> refs/remotes/origin/main
+
