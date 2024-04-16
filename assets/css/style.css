@@ -327,6 +327,9 @@ footer {
   overflow: auto;
 
 }
+.img2{
+  margin: 0%;
+}
 .trainer img{
   width: 35%;
   float: left;
@@ -334,10 +337,10 @@ footer {
 .trainer-bio{
   padding: 35px;
   float: left;
-  width: 65%;
+  width: 57%;
 }
 .trainer-bio h3{
-  font-size: 32px;
+  font-size: 31px;
   margin-bottom: 8px;
 }
 .trainer-bio h4 {
