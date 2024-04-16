@@ -71,7 +71,11 @@
 
 ## For 1.5 (sein min)
 
-##For 1.6 (hsu htet thar)
+-adding 3 trainers photos
+
+### css error (left and right)
+
+## For 1.6 (hsu htet thar)
 
 -iframe tag
 -address tag
@@ -79,6 +83,15 @@
 
 ### css error 
 ![The text "Show Resources" appears below an article titled "Building Responsive Layouts".](./assets/images/csserror.jpg)
+
+
+## For 1.7 (all members)
+
+-we built new index file and secondary css.
+
+### git pull error
+![The text "Show Resources" appears below an article titled "Building Responsive Layouts".](./assets/images/pullerror.png)
+
 
 
 
